@@ -181,11 +181,3 @@ if (window.location.pathname === '/notes') {
 }
 
 getAndRenderNotes();
-
-fetch('api/notes/1234')
-  .then(function (response) {
-    return response.json();
-  })
-  .then(function (data) {
-    console.log(data);
-  });
