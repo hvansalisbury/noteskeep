@@ -16,8 +16,9 @@ This is a simple note taking application that allows you to write and save notes
 
 ## Application
 
-[Deployed Application](https://limitless-depths-43205.herokuapp.com/)
+[Deployed Application](https://limitless-depths-43205.herokuapp.com/)\
 [GitHub Repository](https://github.com/hvansalisbury/noteskeep)
+
 ## Usage
 
 When the app loads, click on get started. From here you can view the notes on the left column. By clicking on any of the saved notes, the complete note will appear on the right side. You can also delete the saved notes by clicking on the trash can icon. If you are already viewing a note and wish to write a new note, click on the "+" icon in the top right. Both the title and text of the notes are now editable. Once you enter a title and note text, a save icon will appear on the top of the screen which you can click on to save.
