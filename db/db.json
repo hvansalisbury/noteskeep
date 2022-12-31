@@ -1,12 +1,7 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "id": "1234"
-    },
-    {
-        "title": "new note",
-        "text": "yes i am\n",
-        "id": "5678"
+        "title": "New Test Note",
+        "text": "I like to eat eat eat eeples and beneenees",
+        "id": "301e"
     }
 ]
